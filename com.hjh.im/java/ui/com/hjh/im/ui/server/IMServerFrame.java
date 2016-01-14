@@ -1,7 +1,7 @@
 /**
  * @author huangjinhong 
  * qq:2260806429 
- * email:xxonehjh@163.com 
+ * email:2260806429@qq.com 
  */
 package com.hjh.im.ui.server;
 
